@@ -1,10 +1,3 @@
-/*
-
-Known Template 
-
-http://www.templatemo.com/tm-516-known
-
-*/
 
   @import url('https://fonts.googleapis.com/css?family=Muli:300,700|Nunito');
 
@@ -80,7 +73,7 @@ http://www.templatemo.com/tm-516-known
   }
 
   a:hover, a:active, a:focus {
-    color: #29ca8e;
+    color: #316C7D;
     outline: none;
   }
 
@@ -258,7 +251,7 @@ http://www.templatemo.com/tm-516-known
 
   .custom-navbar {
     background: #ffffff;
-    border-top: 5px solid #29ca8e;
+    border-top: 5px solid #316C7D;
     border-bottom: 0;
     -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -845,7 +838,7 @@ http://www.templatemo.com/tm-516-known
 
   .social-icon li a {
     border-radius: 100px;
-    color: #29ca8e;
+    color: #316C7D;
     font-size: 15px;
     width: 35px;
     height: 35px;
