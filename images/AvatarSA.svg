@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="10.381227mm"
-   height="11.493498mm"
-   viewBox="0 0 10.381227 11.493498"
+   width="74.860382mm"
+   height="12.692261mm"
+   viewBox="0 0 74.860385 12.692261"
    version="1.1"
    id="svg18613"
    inkscape:version="1.0.1 (3bc2e81, 2020-09-07)"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="223.36616"
-     inkscape:cy="124.83951"
+     inkscape:zoom="1.979899"
+     inkscape:cx="122.65897"
+     inkscape:cy="52.835909"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -54,10 +54,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-8.5896322,-7.1769943)">
+     transform="translate(-8.589632,-7.1769943)">
     <g
        id="g18577"
-       transform="matrix(0.52548381,0,0,0.52548381,-2.2619185,-57.509038)">
+       transform="matrix(0.52548381,0,0,0.52548381,-1.62312,-56.894902)">
       <path
          d="m 24.88392,138.97305 4.93889,5.64445 h 1.41111 l 4.93889,-5.64445 -1.76389,-0.35277 -3.88055,4.23333 -3.88056,-4.23333 -1.76389,0.35277"
          style="fill:#0088aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352778"
@@ -135,5 +135,16 @@
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352778"
          id="path1070" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:6.7512px;line-height:1.25;font-family:sans-serif;stroke-width:0.253169;fill:#00667f;fill-opacity:1;"
+       x="24.736742"
+       y="16.07688"
+       id="text422"><tspan
+         sodipodi:role="line"
+         id="tspan420"
+         x="24.736742"
+         y="16.07688"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Semi-Bold';stroke-width:0.253169;fill:#00667f;fill-opacity:1;">Sílvia de Almeida</tspan></text>
   </g>
 </svg>
